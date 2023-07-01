@@ -1,7 +1,7 @@
 {
-  "name": "raganork",
+  "name": "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒",
   "version": "4.0.1",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "YOURSTRULY 𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "author": "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒",
+  "developer": "𝘾",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/Raganork/issues"
